@@ -123,6 +123,7 @@ a {
 }
 
 .hero__desc {
+  width: 90.5%;
   margin-top: 22px;
   color: #c9d2da;
   font-size: 1.8rem;
